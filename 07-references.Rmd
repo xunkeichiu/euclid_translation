@@ -1,0 +1,18 @@
+`r if (knitr::is_html_output()) '
+# 引用 {-}
+
+【宣棋注：此部分不翻译，只注明格式：以下六本引用以逗号为分割点，依次说明引用的作者，书名，tr为译者，ed为编者,（）括号内为出版地点，出版社，及时间， 最后是备注。】
+
+ - Euclid, Euclid’s Elements: all thirteen books complete in one volume, tr. Thomas L. Heath, ed. Dana Densmore (Santa Fe: Green Lion Press, 2013).
+ 
+ - The Bones: a handy, where-to-find-it pocket reference companion to Euclid’s Elements, Dana Densmore, ed. T.L. Heath, tr. (Santa Fe: Green Lion Press, 2010).
+ 
+ - Euclid, The thirteen books of Euclid’s Elements, tr. Thomas L. Heath, 3 volumes (New York: Dover Publications, 1956). Facsimile reprint of the 1926 Cambridge edition.
+ 
+ - Euclid in Greek, Book I. Thomas L. Heath, ed. (Cambridge: Cambridge University Press, 1920) The Greek text of Book I with many useful notes on Euclid’s usage.
+ 
+ - Proclus, A Commentary on the First Book of Euclid’s Elements, tr. Glenn R. Morrow (Princeton: Princeton University Press, 1970, 1992).
+ 
+ - Gillispie, Charles Coulston, ed., Dictionary of Scientific Biography (New York: Scribner, 1970–1980). Published under the auspices of the American Council of Learned Societies.
+ 
+'`

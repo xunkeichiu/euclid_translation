@@ -1,0 +1,34 @@
+--- 
+title: "欧几里得《几何原本》第一卷以及可讨论的问题"
+author: "作者:Dana Densmore    译者:宣棋"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://xunkeichiu.github.io/euclid_translation/
+# cover-image: path to the social sharing image like images/cover.jpg
+description: 
+  阅读欧几里得《几何原本》时我们可以讨论些什么？
+link-citations: yes
+#github-repo: xx
+---
+
+# 前言 {-}
+
+此书是从英文版<Euclid’s Elements Book One With Questions for Discussion>翻译而来，在翻译的过程中，译者有补充添加内容。原书由美国绿狮出版社出版发行，英文版可在[美版亚马逊](https://www.amazon.com/Euclids-Elements-Book-Questions-Discussion/dp/1888009462/ref=sr_1_1?crid=23A0PAMQVA7S7&keywords=Euclid’s+Elements+Book+One+With+Questions+for+Discussion&qid=1647349755&sprefix=euclid+s+elements+book+one+with+questions+for+discussion%2Caps%2C258&sr=8-1)购买。
+
+在翻译完这本书之后，译者有机会教授欧几里得讨论课，如果对相关的课堂手记感兴趣，可以阅读[《几何原本》教学手记](https://xunkeichiu.github.io/euclid_teaching/)
+
+## 译者的话 {-}
+
+**2022年3月11日**
+
+翻译活动是在2016年底开始，中间因为我曾想慢慢对着古希腊语看证明题的原文，进度非常慢，也遇到了困境，就因此搁置了一段时间。2019年圣诞前夕重启项目，目标是先对照英文译本翻译全书。本书是在2020年元旦左右翻译整理完毕，但是一直都没有找到合适的方式发布，最开始只是放在github储存，但其实不适合阅读，但除此之外我也没想到可以做什么，也不知道是否有出版社感兴趣愿意出版。
+
+过了尽两年的时间，我想如果再不做点什么，这本书可能就永无见天日的时候啦，最近用blogdown建了自己的个人网站xuanqi.life，也认识到了bookdown这个出版系统，因此想乘此东风，将这本小众书籍公开。
+
+**2016年11月20日**
+
+最近学校的Mr.Donahue给我了许可，允许我把他夫人Dana Densmore去年出版的一本小书翻成中文：Euclid's Elements Books One with Questions for Discussion，即 “欧几里得《几何原本》第一卷 以及可讨论的问题”。Mr. Donahue同我讲，这本书是Mrs.Densmore在其它美国大学人文学科的教授要求下写出的，目的是帮助没有数学或科学学科背景的教授在人文讨论课上带领学生对《几何原本》展开讨论。同时给感兴趣的大学生用于自主阅读，提供一种可操作的思路问问题或思考。  
+
+我个人觉得欧几里得的《几何原本》是数学史上一本划时代的作品，直到今天在关于莱布尼茨、牛顿的讨论课上，经常还需要援引欧几里得的数学概念，说这本书是数学的基石一点都不过分。国内的数学教育确实普遍比美国教的多且深，但却直接跳过了对数学最基本的概念讨论。学生学习点线面等概念时，是被动接受了欧几里得作为一个人设定的理论，却同时在老师和课本的暗示下，默认这是已知已证、绝对正确且世界通用的真理。然而这些设定并不是绝对的，正如《几何原本》第五公理的异议促使了“非欧几何”的诞生，在最基础的概念中还孕育着无限的可能性。数学并不是刻板的、冷冰冰的条条框框的约束，而是非常有意思的人类从古到今思辨的结晶。希望这本书的翻译能够帮助更多人重新回到数学的基础进行思考，换一种方式看待数学，更多人会理解数学，喜欢数学。
